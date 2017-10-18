@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "514549888208",
+    "firebase_url": "https://snc-firebase-project.firebaseio.com",
+    "project_id": "snc-firebase-project",
+    "storage_bucket": "snc-firebase-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514549888208:android:22209cc8af683fad",
+        "android_client_info": {
+          "package_name": "supind.corp.snc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514549888208-i1ich0toi7v3g4tqtpnj5tn0qb0n48p8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "supind.corp.snc",
+            "certificate_hash": "ea95e85083b3a2c22c8afdcb1d00ebb723545d83"
+          }
+        },
+        {
+          "client_id": "514549888208-jagdiu4atsmrovauu2o9t5qdtto9nb64.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoiuk5eQiWe7iKkq1KhOXG3jj7-15ls1I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514549888208-jagdiu4atsmrovauu2o9t5qdtto9nb64.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
